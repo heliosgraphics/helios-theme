@@ -1,7 +1,7 @@
 id = "helios-theme"
-name = "Helios Theme"
+name = "Helios"
 description = "Helios theme for Zed"
-version = "0.0.6"
+version = "0.0.7"
 schema_version = 2
 authors = ["<chris@puska.org>"]
 repository = "https://github.com/heliosgraphics/helios-theme"
